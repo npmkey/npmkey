@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there! I'm Keylla </h1>
-<p align="center">I am a developer focused on useful mobile apps</p>
+<p align="center">I am a developer focused on useful mobile apps 📱</p>
 
 ## 💻 Skills
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
@@ -9,14 +9,19 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
 ## 📃 Resume
-💻 Estagiária em Tecnologia da Informação <br/>
-📆 2024 - 2026 <br/>
-📍 Secretaria de Educação de Feira de Santana (SEDUC) - Feira de Santana/BA, Brasil <br/>
+💻 **IT Intern (Estagiária em Tecnologia da Informação)**  <br/>
+📆 2024 - 2026  <br/>
+📍 Department of Education of Feira de Santana (SEDUC) - Brazil  <br/>
 <br/>
-👩‍🏫 Professora Estagiária de T.I, Cultura Maker e Robótica <br/>
-📆 2023 <br/>
-📍 Escola Ruy Barbosa - Feira de Santana/BA, Brasil <br/>
+👩‍🏫 **IT & Robotics Teaching Intern**  <br/>
+📆 2023  <br/>
+📍 Escola Ruy Barbosa - Brazil  <br/>
 <br/>
-👩‍💻 Assistente Administrativa <br/>
-📆 2020 - 2022 <br/>
-📍 Supermercado Sonegil - Feira de Santana/BA, Brasil <br/>
+👩‍💻 **Administrative Assistant**  <br/>
+📆 2020 - 2022  <br/>
+📍 Supermercado Sonegil - Brazil  <br/>
+
+## 🚀 About Me
+- 📱 Focada em desenvolvimento mobile  <br/>
+- 🤖 Interesse em tecnologia e automação  <br/>
+- 📊 Experiência com dados e sistemas administrativos  <br/>
