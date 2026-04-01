@@ -9,14 +9,14 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
 ## 📃 Resume
-💻 Estagiária em Tecnologia da Informação
-📆 2024 - 2026
-📍 Secretaria de Educação de Feira de Santana (SEDUC) - Feira de Santana/BA, Brasil
-
-👩‍🏫 Professora Estagiária de T.I, Cultura Maker e Robótica
-📆 2023
-📍 Escola Ruy Barbosa - Feira de Santana/BA, Brasil
-
-👩‍💻 Assistente Administrativa
-📆 2020 - 2022
-📍 Supermercado Sonegil - Feira de Santana/BA, Brasil
+💻 Estagiária em Tecnologia da Informação <br/>
+📆 2024 - 2026 <br/>
+📍 Secretaria de Educação de Feira de Santana (SEDUC) - Feira de Santana/BA, Brasil <br/>
+<br/>
+👩‍🏫 Professora Estagiária de T.I, Cultura Maker e Robótica <br/>
+📆 2023 <br/>
+📍 Escola Ruy Barbosa - Feira de Santana/BA, Brasil <br/>
+<br/>
+👩‍💻 Assistente Administrativa <br/>
+📆 2020 - 2022 <br/>
+📍 Supermercado Sonegil - Feira de Santana/BA, Brasil <br/>
